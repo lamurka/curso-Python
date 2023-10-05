@@ -7,3 +7,7 @@ Condicionales
 Ejercicios Python día 2
 Bucles
 Pandas
+Ejercicios Python día 3
+Phophet
+Folium
+Space XA
