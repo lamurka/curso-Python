@@ -15,3 +15,6 @@ Funciones
 Clases
 Programacion funcional
 SpaceX 2
+RDD Teoría
+SparkSession Teoría
+Transformaciones y Acciones sobre RDDs
