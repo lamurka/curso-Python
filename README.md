@@ -1,20 +1,23 @@
 # curso-Python
 hackea tu futuro
-Ejercicios Python día 1
+Día 1
 Funcionario básico 1
 Funcionario básico 2
 Condicionales
-Ejercicios Python día 2
+Día 2
 Bucles
 Pandas
-Ejercicios Python día 3
+Día 3
 Phophet
 Folium
 Space X
+Día 6
 Funciones
 Clases
+Día 7
 Programacion funcional
 SpaceX 2
+Día 8
 RDD Teoría
 SparkSession Teoría
 Transformaciones y Acciones sobre RDDs
