@@ -15,6 +15,9 @@ Día 6
 Funciones
 Clases
 Día 7
+Día 8
+Día 9
+
 Programacion funcional
 SpaceX 2
 Día 8
